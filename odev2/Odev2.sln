@@ -7,11 +7,16 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Odev2Service", "WebApplicat
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OdevData", "OdevData\OdevData.csproj", "{0A39B3C6-1C6D-489F-B06F-518B43DC43D3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Odev2Base", "Odev2Base\Odev2Base.csproj", "{FF62CA2F-6ACA-4E27-A5EC-1742BA6300CF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Odev2Base", "Odev2Base\Odev2Base.csproj", "{FF62CA2F-6ACA-4E27-A5EC-1742BA6300CF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Odev2Schema", "Odev2Schema\Odev2Schema.csproj", "{53395576-6D72-4912-85F9-F6CA4D2D1A04}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Odev2Schema", "Odev2Schema\Odev2Schema.csproj", "{53395576-6D72-4912-85F9-F6CA4D2D1A04}"
 	ProjectSection(ProjectDependencies) = postProject
 		{FF62CA2F-6ACA-4E27-A5EC-1742BA6300CF} = {FF62CA2F-6ACA-4E27-A5EC-1742BA6300CF}
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Çözüm Öğeleri", "Çözüm Öğeleri", "{F5107781-1E0B-4614-B3BC-8FA5E71C283A}"
+	ProjectSection(SolutionItems) = preProject
+		Readme.md = Readme.md
 	EndProjectSection
 EndProject
 Global
