@@ -1,0 +1,17 @@
+C:\Users\ibrah\Desktop\calisma\odev2\Odev2\OdevData\bin\Debug\net6.0\OdevData.deps.json
+C:\Users\ibrah\Desktop\calisma\odev2\Odev2\OdevData\bin\Debug\net6.0\OdevData.runtimeconfig.json
+C:\Users\ibrah\Desktop\calisma\odev2\Odev2\OdevData\bin\Debug\net6.0\OdevData.dll
+C:\Users\ibrah\Desktop\calisma\odev2\Odev2\OdevData\bin\Debug\net6.0\OdevData.pdb
+C:\Users\ibrah\Desktop\calisma\odev2\Odev2\OdevData\bin\Debug\net6.0\Odev2Base.dll
+C:\Users\ibrah\Desktop\calisma\odev2\Odev2\OdevData\bin\Debug\net6.0\Odev2Base.pdb
+C:\Users\ibrah\Desktop\calisma\odev2\Odev2\OdevData\obj\Debug\net6.0\OdevData.csproj.AssemblyReference.cache
+C:\Users\ibrah\Desktop\calisma\odev2\Odev2\OdevData\obj\Debug\net6.0\OdevData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibrah\Desktop\calisma\odev2\Odev2\OdevData\obj\Debug\net6.0\OdevData.AssemblyInfoInputs.cache
+C:\Users\ibrah\Desktop\calisma\odev2\Odev2\OdevData\obj\Debug\net6.0\OdevData.AssemblyInfo.cs
+C:\Users\ibrah\Desktop\calisma\odev2\Odev2\OdevData\obj\Debug\net6.0\OdevData.csproj.CoreCompileInputs.cache
+C:\Users\ibrah\Desktop\calisma\odev2\Odev2\OdevData\obj\Debug\net6.0\OdevData.csproj.CopyComplete
+C:\Users\ibrah\Desktop\calisma\odev2\Odev2\OdevData\obj\Debug\net6.0\OdevData.dll
+C:\Users\ibrah\Desktop\calisma\odev2\Odev2\OdevData\obj\Debug\net6.0\refint\OdevData.dll
+C:\Users\ibrah\Desktop\calisma\odev2\Odev2\OdevData\obj\Debug\net6.0\OdevData.pdb
+C:\Users\ibrah\Desktop\calisma\odev2\Odev2\OdevData\obj\Debug\net6.0\OdevData.genruntimeconfig.cache
+C:\Users\ibrah\Desktop\calisma\odev2\Odev2\OdevData\obj\Debug\net6.0\ref\OdevData.dll

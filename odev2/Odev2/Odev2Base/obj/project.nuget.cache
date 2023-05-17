@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "wHyRfG8cpoLBT0uWlSFDfqqFyhQdZ5f72fj4csqulorhOqvpPA8kxkVC29ofokVDiqMEGkcq6/RhZd4JhaGG5g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ibrah\\Desktop\\calisma\\odev2\\Odev2\\Odev2Base\\Odev2Base.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ibrah\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\ibrah\\.nuget\\packages\\fluentvalidation\\11.5.2\\fluentvalidation.11.5.2.nupkg.sha512",
+    "C:\\Users\\ibrah\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\ibrah\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
